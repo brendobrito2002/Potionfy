@@ -24,7 +24,7 @@ Link: [Tutorial](https://www.freecodecamp.org/news/how-to-use-git-and-github-in-
 
 2. [x] Como criar um arquivo.
 
-3. [ ] Como criar um problema e trabalhar nele.
+3. [x] Como criar um problema e trabalhar nele.
 
 4. [ ] Como configurar o ambiente de desenvolvimento local.
 
