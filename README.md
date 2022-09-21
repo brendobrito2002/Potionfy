@@ -1,4 +1,8 @@
-# Potionfy
+# Projeto_Tutorial_Harry_Potter
+
+## Sobre Repositório
+
+#### Como usar o Git e o GitHub em uma equipe como um profissional.
 
 Link: [Tutorial](https://www.freecodecamp.org/news/how-to-use-git-and-github-in-a-team-like-a-pro/)
 
