@@ -18,7 +18,7 @@ Link: [Tutorial](https://www.freecodecamp.org/news/how-to-use-git-and-github-in-
 
 3. [ ] Considerações sobre trabalho em equipe.
 
-### Como começar a trabalhar no projeto
+## Como começar a trabalhar no projeto
 
 1. [ ] Como criar o repositório e construir a equipe (de graça).
 
@@ -38,7 +38,15 @@ Link: [Tutorial](https://www.freecodecamp.org/news/how-to-use-git-and-github-in-
 
 4. [ ] Enviar para o repositório.
 
-5. [ ] Criar uma solicitação de pull.
+5. [ ] Criar uma solicitação pull.
+
+
+# Recapitulação rápida até agora
+
+Hermione criou um repositório remoto,
+então um issue para lidar com a tarefa de construir
+uma landing page, e como Harry trabalhou nessa issue
+localmente e criou uma pull request assim que terminou de trabalhar nela.
 
 
 ## Como fazer revisões de código
@@ -49,12 +57,16 @@ Link: [Tutorial](https://www.freecodecamp.org/news/how-to-use-git-and-github-in-
 
 3. [ ] Como implementar as mudanças.
 
-4. [ ] como mesclar a solicitação pull
+4. [ ] Como mesclar a solicitação pull
 
-## Como usar um developbranch no Git
+## Como usar um develop branch no Git
 
-1. [ ] 
+Ao trabalhar com projetos reais,
+não é recomendado mesclar as alterações
+na ramificação principal como você viu até este ponto.
+
+1. [ ] Develop branch
 
 ## Como lidar com conflitos de mesclagem no Git
 
-1. [ ]
+1. [ ] Conflito de mesclagem
