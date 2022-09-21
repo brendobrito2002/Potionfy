@@ -55,7 +55,7 @@ localmente e criou uma pull request assim que terminou de trabalhar nela.
 
 2. [x] Como abordar a revisão e criar uma alteração de código.
 
-3. [ ] Como implementar as mudanças.
+3. [x] Como implementar as mudanças.
 
 4. [ ] Como mesclar a solicitação pull
 
