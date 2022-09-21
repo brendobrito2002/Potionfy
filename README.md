@@ -6,7 +6,7 @@
 
 Link: [Tutorial](https://www.freecodecamp.org/news/how-to-use-git-and-github-in-a-team-like-a-pro/)
 
-1. [ ] Configuração inicial do projeto
+1. [x] Configuração inicial do projeto
 
 ## Tarefas a serem concluidas
 
