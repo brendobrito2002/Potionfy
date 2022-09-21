@@ -69,7 +69,7 @@ Em vez de trabalhar diretamente com a ramificação "main" (geralmente chamada d
 
 Depois que um grupo de problemas for resolvido, essa ramificação develop será mesclada na ramificação "main" (ou production), geralmente denotando uma alteração de versão no aplicativo.
 
-1. [ ] Develop branch
+1. [x] Develop branch
 
 ## Como lidar com conflitos de mesclagem no Git
 
