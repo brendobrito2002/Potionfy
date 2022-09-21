@@ -30,7 +30,7 @@ Link: [Tutorial](https://www.freecodecamp.org/news/how-to-use-git-and-github-in-
 
 ## Fluxo de trabalho do GitHub
 
-1. [ ] Criar uma ramificação.
+1. [x] Criar uma ramificação.
 
 2. [ ] Trabalhar na filial localmente.
 
