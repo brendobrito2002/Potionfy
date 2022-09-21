@@ -38,7 +38,7 @@ Link: [Tutorial](https://www.freecodecamp.org/news/how-to-use-git-and-github-in-
 
 4. [x] Enviar para o repositório.
 
-5. [ ] Criar uma solicitação pull.
+5. [x] Criar uma solicitação pull.
 
 
 # Recapitulação rápida até agora
