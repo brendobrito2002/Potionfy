@@ -53,7 +53,7 @@ localmente e criou uma pull request assim que terminou de trabalhar nela.
 
 1. [x] Como criar uma revisão de código.
 
-2. [ ] Como abordar a revisão e criar uma alteração de código.
+2. [x] Como abordar a revisão e criar uma alteração de código.
 
 3. [ ] Como implementar as mudanças.
 
