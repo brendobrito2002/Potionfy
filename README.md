@@ -65,6 +65,10 @@ Ao trabalhar com projetos reais,
 não é recomendado mesclar as alterações
 na ramificação principal como você viu até este ponto.
 
+Em vez de trabalhar diretamente com a ramificação "main" (geralmente chamada de "production" ), você estará trabalhando com uma ramificação "develop". Você estará ramificando os problemas desse branch develop e mesclando-os de volta na ramificação develop.
+
+Depois que um grupo de problemas for resolvido, essa ramificação develop será mesclada na ramificação "main" (ou production), geralmente denotando uma alteração de versão no aplicativo.
+
 1. [ ] Develop branch
 
 ## Como lidar com conflitos de mesclagem no Git
