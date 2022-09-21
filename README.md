@@ -16,7 +16,7 @@ Link: [Tutorial](https://www.freecodecamp.org/news/how-to-use-git-and-github-in-
 
 2. [x] Como configurar seu ambiente de desenvolvimento local.
 
-3. [ ] Considerações sobre trabalho em equipe.
+3. [x] Considerações sobre trabalho em equipe.
 
 ## Como começar a trabalhar no projeto
 
