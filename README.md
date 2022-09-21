@@ -73,4 +73,4 @@ Depois que um grupo de problemas for resolvido, essa ramificação develop será
 
 ## Como lidar com conflitos de mesclagem no Git
 
-1. [ ] Conflito de mesclagem
+1. [x] Conflito de mesclagem
