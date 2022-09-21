@@ -34,7 +34,7 @@ Link: [Tutorial](https://www.freecodecamp.org/news/how-to-use-git-and-github-in-
 
 2. [x] Trabalhar na filial localmente.
 
-3. [ ] Resolva o problema.
+3. [x] Resolva o problema.
 
 4. [ ] Enviar para o repositório.
 
