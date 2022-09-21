@@ -14,7 +14,7 @@ Link: [Tutorial](https://www.freecodecamp.org/news/how-to-use-git-and-github-in-
 
 1. [x] Como criar duas contas diferentes do GitHub.
 
-2. [ ] Como configurar seu ambiente de desenvolvimento local.
+2. [x] Como configurar seu ambiente de desenvolvimento local.
 
 3. [ ] Considerações sobre trabalho em equipe.
 
