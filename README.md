@@ -20,7 +20,7 @@ Link: [Tutorial](https://www.freecodecamp.org/news/how-to-use-git-and-github-in-
 
 ## Como começar a trabalhar no projeto
 
-1. [ ] Como criar o repositório e construir a equipe (de graça).
+1. [x] Como criar o repositório e construir a equipe (de graça).
 
 2. [ ] Como criar um arquivo.
 
