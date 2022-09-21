@@ -57,7 +57,7 @@ localmente e criou uma pull request assim que terminou de trabalhar nela.
 
 3. [x] Como implementar as mudanças.
 
-4. [ ] Como mesclar a solicitação pull
+4. [x] Como mesclar a solicitação pull
 
 ## Como usar um develop branch no Git
 
