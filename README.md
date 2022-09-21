@@ -36,7 +36,7 @@ Link: [Tutorial](https://www.freecodecamp.org/news/how-to-use-git-and-github-in-
 
 3. [x] Resolva o problema.
 
-4. [ ] Enviar para o repositório.
+4. [x] Enviar para o repositório.
 
 5. [ ] Criar uma solicitação pull.
 
